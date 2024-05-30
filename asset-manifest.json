@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-portfolio-software/static/css/main.88b437f3.css",
+    "main.js": "/my-portfolio-software/static/js/main.518672eb.js",
+    "static/media/nayeb_Software_Engineer.pdf": "/my-portfolio-software/static/media/nayeb_Software_Engineer.97eac411c873498019c9.pdf",
+    "static/media/cybersecurity.png": "/my-portfolio-software/static/media/cybersecurity.6e2d400d3410fead9e3f.png",
+    "static/media/linkedin.png": "/my-portfolio-software/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "index.html": "/my-portfolio-software/index.html",
+    "main.88b437f3.css.map": "/my-portfolio-software/static/css/main.88b437f3.css.map",
+    "main.518672eb.js.map": "/my-portfolio-software/static/js/main.518672eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.88b437f3.css",
+    "static/js/main.518672eb.js"
+  ]
+}
