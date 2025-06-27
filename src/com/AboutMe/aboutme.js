@@ -3,21 +3,24 @@ import './aboutme.css';
 const AboutMe = () => {
     return (
         <section id='aboutme'>
-            <span className="aboutmeTitle">About me</span>
-            <span className="aboutmeDesc">I'm Md Abu Nayeb Towki, a recent graduate with a BSc in Computer Science, stepping into the dynamic world of software engineering. My academic background has equipped me with a strong foundation in Full Stack Web Development and Software Engineering principles.
+            <span className="aboutmeTitle">About Me</span>
+            <span className="aboutmeDesc">
+                I'm Md Abu Nayeb Towki, a recent Computer Science graduate from Brunel University London with a growing passion for artificial intelligence, full-stack development, and solving real-world problems through technology.
 
-        <br/><br/>
+                <br /><br />
 
-        My passion lies in building innovative software solutions that improve user experiences and solve complex problems. I have hands-on experience in developing web applications using modern frameworks and technologies such as React and Node.js. I am also proficient in various programming languages, including JavaScript, Python, and Java.
+                My academic background has given me a strong foundation in software engineering and web development. I’ve built responsive and dynamic applications using modern frameworks like React and Node.js, and I'm comfortable working with JavaScript, Python, and Java. More recently, I’ve started exploring AI and machine learning—developing projects that apply NLP and classification techniques.
 
-        <br/><br/>
+                <br /><br />
 
-        Throughout my journey, I've embraced challenges as opportunities for growth and learning. My portfolio is a testament to my dedication, showcasing a variety of projects that reflect my skills, creativity, and problem-solving abilities. I thrive in collaborative environments and enjoy working with cross-functional teams to deliver high-quality software solutions.
+                I enjoy working in collaborative environments and constantly seek opportunities to learn and grow. My portfolio showcases a mix of practical projects that reflect my technical skills, creativity, and curiosity.
 
-        <br/><br/>
+                <br /><br />
 
-        In my spare time, I enjoy playing badminton weekly to stay active and fit. I also love going for long drives whenever I get the chance. Additionally, I have a keen interest in photography, capturing moments with my phone or camera, which adds a unique dimension to my professional skills and helps me maintain a balanced lifestyle.</span>
+                Outside of tech, I enjoy playing badminton to stay active, going on long drives, and exploring mobile photography. These hobbies keep me balanced and inspired in both personal and professional life.
+            </span>
         </section>
+
     );
 }
 

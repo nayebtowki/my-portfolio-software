@@ -1,30 +1,39 @@
 import React from 'react';
 import './skills.css';
-import Cybersecurity from '../../assets/cybersecurity.png';
+import AI from '../../assets/ai.png';
 import FullStackDev from '../../assets/fullstackdev.png';
 
 const Skills = () => {
     return (
-        <section id='skills'>
-            <span className="skillTitle">What I do</span>
-            <span className="skillDesc">Combining the intricacies of software engineering and the creativity of full stack web development, I deliver tailored tech solutions. My approach is rooted in a deep understanding of software development principles and a flair for building engaging web interfaces.</span>
+       <section id='skills'>
+            <span className="skillTitle">What I Do</span>
+            <span className="skillDesc">
+                I enjoy building smart and scalable tech solutions by combining full stack development with a growing interest in AI and system operations. My background in computer science allows me to explore how web technologies, machine learning, and infrastructure tools work together to solve real-world problems.
+            </span>
+
             <div className="skillBars">
                 <div className="skillBar">
-                    <img src={FullStackDev} alt="WebDesign" className="skillBarImg" />
-                    <div className="skillBarText">
-                        <h2>Full Stack Web Development</h2>
-                        <p>As a Full Stack Web Developer, I specialize in developing dynamic, responsive websites and applications. My expertise spans from crafting engaging user interfaces with modern front-end technologies to architecting efficient back-end solutions, ensuring a seamless and cohesive user experience across all digital platforms.</p>
-                    </div>
+                <img src={FullStackDev} alt="Full Stack Development" className="skillBarImg" />
+                <div className="skillBarText">
+                    <h2>Full Stack Web Development</h2>
+                    <p>
+                    I build responsive and dynamic web applications using technologies like React, Node.js, HTML, CSS, and JavaScript. I enjoy working on both the frontend and backend, creating seamless user experiences while learning to write clean, maintainable code and integrate APIs and databases.
+                    </p>
                 </div>
+                </div>
+
                 <div className="skillBar">
-                    <img src={Cybersecurity} alt="Cybersecurity" className="skillBarImg" />
-                    <div className="skillBarText">
-                        <h2>Cybersecurity</h2>
-                        <p>In Cybersecurity, my focus is on creating robust defenses against digital threats. I employ a blend of risk analysis, security protocols, and the latest cybersecurity trends to protect sensitive data and systems, ensuring the integrity and confidentiality of information in an increasingly connected digital world.</p>
-                    </div>
+                <img src={AI} alt="AI & Automation" className="skillBarImg" />
+                <div className="skillBarText">
+                    <h2>AI & Automation</h2>
+                    <p>
+                    I'm actively learning and experimenting with machine learning models using Python, Scikit-learn, and NLP libraries. My recent projects include classifying AI vs. human text and building simple automation scripts. I’m interested in how AI and scripting can improve system efficiency and decision-making.
+                    </p>
+                </div>
                 </div>
             </div>
         </section>
+
     );
 }
 
