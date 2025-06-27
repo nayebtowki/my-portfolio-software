@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/my-portfolio-software/static/css/main.88b437f3.css",
-    "main.js": "/my-portfolio-software/static/js/main.518672eb.js",
-    "static/media/nayeb_Software_Engineer.pdf": "/my-portfolio-software/static/media/nayeb_Software_Engineer.97eac411c873498019c9.pdf",
-    "static/media/cybersecurity.png": "/my-portfolio-software/static/media/cybersecurity.6e2d400d3410fead9e3f.png",
+    "main.css": "/my-portfolio-software/static/css/main.59d5272a.css",
+    "main.js": "/my-portfolio-software/static/js/main.4d112ce7.js",
+    "static/media/NayebTowkiCV.pdf": "/my-portfolio-software/static/media/NayebTowkiCV.1568e50559e99f8c5e25.pdf",
+    "static/media/ai.png": "/my-portfolio-software/static/media/ai.71cff2a04880672aef38.png",
     "static/media/linkedin.png": "/my-portfolio-software/static/media/linkedin.df3f373c358bcfdd92bb.png",
     "index.html": "/my-portfolio-software/index.html",
-    "main.88b437f3.css.map": "/my-portfolio-software/static/css/main.88b437f3.css.map",
-    "main.518672eb.js.map": "/my-portfolio-software/static/js/main.518672eb.js.map"
+    "main.59d5272a.css.map": "/my-portfolio-software/static/css/main.59d5272a.css.map",
+    "main.4d112ce7.js.map": "/my-portfolio-software/static/js/main.4d112ce7.js.map"
   },
   "entrypoints": [
-    "static/css/main.88b437f3.css",
-    "static/js/main.518672eb.js"
+    "static/css/main.59d5272a.css",
+    "static/js/main.4d112ce7.js"
   ]
 }
